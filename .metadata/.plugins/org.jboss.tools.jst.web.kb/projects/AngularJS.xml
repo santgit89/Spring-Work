@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/catalina.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/el-api.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/jsp-api.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/websocket-api.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/catalina-tribes.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-i18n-fr.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/catalina-ant.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/jasper-el.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-api.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/annotations-api.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/catalina-ha.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/catalina-storeconfig.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/jasper.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-coyote.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-i18n-ja.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-websocket.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/servlet-api.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-jdbc.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-i18n-es.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/ecj-4.5.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-util.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-dbcp.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-jni.jar"/>
+  <path value="D:/Software/tomcat/apache-tomcat-8.0.35-windows-x64/apache-tomcat-8.0.35/lib/tomcat-util-scan.jar"/>
+ </paths>
+ <includes/>
+ <aliases/>
+ <uris/>
+</kb-project>

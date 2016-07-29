@@ -1,0 +1,5 @@
+127.0.0.1 - - [24/Jul/2016:21:37:11 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Jul/2016:21:37:12 -0400] "GET /SpringMVC1/WEB-INF/classes/beans/Hello.java HTTP/1.1" 404 992
+127.0.0.1 - - [24/Jul/2016:21:46:17 -0400] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [24/Jul/2016:21:46:17 -0400] "GET /SpringMVC1/WEB-INF/classes/beans/Hello.java HTTP/1.1" 404 992
+127.0.0.1 - - [24/Jul/2016:21:47:03 -0400] "GET /SpringMVC1/index.html HTTP/1.1" 200 235

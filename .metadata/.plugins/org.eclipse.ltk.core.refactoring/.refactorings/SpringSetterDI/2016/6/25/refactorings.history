@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.beans.Engile&apos; to &apos;Engine&apos;&#x0D;&#x0A;- Original project: &apos;SpringSetterDI&apos;&#x0D;&#x0A;- Original element: &apos;com.beans.Engile&apos;&#x0D;&#x0A;- Renamed element: &apos;com.beans.Engine&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Engile&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.beans{Engile.java[Engile" matchStrategy="1" name="Engine" qualified="false" references="true" similarDeclarations="false" stamp="1466290451335" textual="false" version="1.0"/>
+</session>

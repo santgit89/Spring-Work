@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+firstStartup=false
+history.branchName=b25l
+history.repositoryURL=aHR0cHM6Ly9naXRodWIuY29tL3NhbnRnaXQ4OS9Bbmd1bGFyLW5nLmdpdA\=\=
+org.eclipse.team.svn.ui.panel.callback.PromptCredentialsPanel.height=216
+org.eclipse.team.svn.ui.panel.callback.PromptCredentialsPanel.width=470
+org.eclipse.team.svn.ui.panel.common.BranchPanel.height=312
+org.eclipse.team.svn.ui.panel.common.BranchPanel.width=525
+org.eclipse.team.svn.ui.panel.common.RepositoryTreePanel.height=203
+org.eclipse.team.svn.ui.panel.common.RepositoryTreePanel.width=470
+org.eclipse.team.svn.ui.panel.local.AddRepositoryPanel.height=109
+org.eclipse.team.svn.ui.panel.local.AddRepositoryPanel.width=470
+org.eclipse.team.svn.ui.panel.remote.CreateFolderPanel.height=200
+org.eclipse.team.svn.ui.panel.remote.CreateFolderPanel.width=525
+org.eclipse.team.svn.ui.panel.remote.ImportPanel.height=239
+org.eclipse.team.svn.ui.panel.remote.ImportPanel.width=525
+preference.repository.repositoryBrowser=false

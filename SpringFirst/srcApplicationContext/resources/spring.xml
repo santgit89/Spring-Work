@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+                  "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+<bean id="x" class="com.pojjo.Hello">
+<property name="id" value="1"></property>
+<property name="name" value="santosh"/>
+<property name="email" value="gmail"></property>
+</bean>
+
+
+</beans>
